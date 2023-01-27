@@ -1,0 +1,84 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.name{
+    display: flex;
+    justify-content: center;
+    font-size: larger;
+}
+
+.title{
+    background-color:rgb(115, 193, 196);
+    border: 1px solid;
+}
+
+.table{
+    display: flex;
+    justify-content: center;
+    border-collapse: collapse;
+    padding: 5px;
+    text-align: center;
+}
+
+td{
+    border: 1px dashed ;
+}
+
+.celda1:hover{
+    background-color:yellowgreen;
+    cursor: cell;
+    border-top: solid 1px;
+    border-bottom: solid 1px;
+}
+
+.celda2:hover{
+    background-color:yellowgreen;
+    cursor: cell;
+    border-top: solid 1px;
+    border-bottom: solid 1px;
+}
+
+.celda3:hover{
+    background-color:yellowgreen;
+    cursor: cell;
+    border-top: solid 1px;
+    border-bottom: solid 1px;
+}
+
+.celda4:hover{
+    background-color:yellowgreen;
+    cursor: cell;
+    border-top: solid 1px;
+    border-bottom: solid 1px;
+}
+
+.celda5:hover{
+    background-color:yellowgreen;
+    cursor: cell;
+    border-top: solid 1px;
+    border-bottom: solid 1px;
+}
+
+.celda6:hover{
+    background-color:yellowgreen;
+    cursor: cell;
+    border-top: solid 1px;
+    border-bottom: solid 1px;
+}
+
+.celda7:hover{
+    background-color:yellowgreen;
+    cursor: cell;
+    border-top: solid 1px;
+    border-bottom: solid 1px;
+}
+
+.celda8:hover{
+    background-color:yellowgreen;
+    cursor: cell;
+    border-top: solid 1px;
+    border-bottom: solid 1px;
+}
